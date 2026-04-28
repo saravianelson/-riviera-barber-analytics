@@ -1,0 +1,19 @@
+Servicio,Categoría,Duración (min),Precio,Estado
+Corte,Cabello,40,$300.00,Activo
+Corte + Barba,Combo,60,$500.00,Activo
+Corte + Facial,Combo,60,$500.00,Activo
+Barba,Barba,40,$300.00,Activo
+"Lavado, Corte y Peinado",Cabello,60,$450.00,Activo
+Corte Domicilio,Cabello,75,$600.00,Activo
+Tinte de Barba,Color,60,$600.00,Activo
+Corte + Barba + Facial,Combo,75,$650.00,Activo
+Limpieza Facial,Estética,40,$300.00,Activo
+Ritual de Toalla Caliente,Barba,25,$300.00,Activo
+Corte Femenino,Cabello,75,$500.00,Activo
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Nombre,Especialidad,Turno,Estado,
+Nelson,Peluquería,Full Time,Activo,

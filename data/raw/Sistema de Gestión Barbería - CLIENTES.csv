@@ -1,0 +1,20 @@
+,,,,,
+ID_Cliente,Nombre,Tipo (Local/Turista),Fecha_Alta,Ultima_Visita,Estado
+RB001,Erick Arguello,Local,27/5/2025,20/4/2026,Activo
+RB002,Alejandro Herrera,Local,27/5/2025,20/4/2026,Activo
+RB003,Ron Perry,Local,27/5/2025,20/4/2026,Activo
+RB004,Brendan Melason,Local,27/5/2025,21/4/2026,Activo
+RB005,Joa,Local,27/9/2025,20/4/2026,Activo
+RB006,Pedro,Local,27/5/2025,20/4/2026,Activo
+RB007,Izhar Cardenas,Local,27/5/2025,21/4/2026,Activo
+RB008,Alejandro Fernandez,Local,27/5/2025,22/4/2026,Activo
+RB009,Arturo Grande,Local,27/5/2025,24/4/2026,Activo
+RB010,Jorge Tello,Local,27/5/2025,24/4/2026,Activo
+RB011,Juan Pablo Cordova,Local,27/5/2025,24/4/2026,Activo
+RB012,Victor Rodriguez,Local,27/5/2025,24/4/2026,Activo
+RB013,Andrew Biggs,Local,27/5/2025,24/4/2026,Activo
+RB014,Eli Biggs,Local,27/5/2025,24/4/2026,Activo
+RB015,Javier Cataño,Local,27/5/2025,23/4/2026,Activo
+RB016,Onyl,Local,27/5/2025,,
+RB017,Sergio Díaz,Local,27/5/2025,,
+RB018,Cliente Filo,Filo Salon,27/5/2025,,
