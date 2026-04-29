@@ -1,4 +1,4 @@
-💈 Riviera Barber — Operational Analytics
+# 💈 Riviera Barber — Operational Analytics #
 Author: Nelson Saravia
 Business: Riviera Barber — Independent barbershop station within Filo Salon, Playa del Carmen, MX
 Stack: Python · pandas · matplotlib · seaborn
