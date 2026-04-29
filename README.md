@@ -1,25 +1,24 @@
 # 💈 Riviera Barber — Operational Analytics
 
-## 📝 Descripción
-Este proyecto es el motor de análisis de mi propio negocio: **Riviera Barber** en Playa del Carmen. 
+## 📝 Description
+This project serves as the core analytical engine for my independent business: **Riviera Barber**, located in Playa del Carmen, Mexico.
 
-Desarrollé este pipeline en Python para transformar mis registros diarios de Google Sheets en decisiones de negocio reales.
-Pasar de "sentir" cómo iba el mes a "saber" exactamente dónde está el dinero y dónde se pierden clientes.
+Leveraging over 12 years of experience in the barbering industry, I developed this Python-based data pipeline to transform raw daily logs from Google Sheets into actionable business intelligence. This tool shifts the business management approach from "intuition-based" to "data-driven," providing clarity on revenue streams and customer churn patterns.
 
-## 🚀 Lo que resolví
-* **Limpieza de datos sucios:** Automatización del parseo de moneda y fechas que venían con errores de carga manual.
-* **Lógica financiera:** Corrección automática de comisiones (60/40) y cálculo neto de propinas.
-* **KPIs de Negocio:** Creación de un dashboard semanal con Ticket Promedio, Revenue por día y Tasa de Retención.
+## 🚀 Key Problems Solved
+* **Automated Data Cleaning:** Developed a pipeline to handle inconsistent manual entries, including currency parsing and date formatting.
+* **Financial Logic Automation:** Standardized the 60/40 commission split and automated tip calculations to ensure 100% accounting accuracy.
+* **Operational KPIs:** Created a weekly executive dashboard tracking Average Ticket, Revenue per Day, and Customer Retention Rates.
 
-## 🛠️ Stack Tecnológico
-* **Python** (Pandas para limpieza, Seaborn/Matplotlib para visualización).
-* **Google Colab** (Entorno de desarrollo).
-* **Git/GitHub** (Control de versiones y gestión Agile).
+## 🛠️ Tech Stack
+* **Python** (Pandas for data wrangling, Seaborn/Matplotlib for visualization).
+* **Google Colab** (Development environment).
+* **Git/GitHub** (Version control and Agile project management).
 
-## 📈 Próximos Pasos (Roadmap)
-- [ ] Implementación de un modelo de segmentación de clientes (Loyal vs. Churn).
-- [ ] Predicción de demanda para optimización de turnos.
-- [ ] Dashboard interactivo en Streamlit.
+## 📈 Roadmap
+- [ ] Implement a Customer Segmentation model (Loyal vs. Churn) using RFM analysis.
+- [ ] Predictive demand modeling for staff shift optimization.
+- [ ] Interactive BI Dashboard using Streamlit.
 
 ---
 **Nelson Saravia**
