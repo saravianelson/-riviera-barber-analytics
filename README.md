@@ -1,10 +1,10 @@
-# 💈 Riviera Barber — Operational Analytics #
+# 💈 Riviera Barber — Operational Analytics 
 Author: Nelson Saravia
 Business: Riviera Barber — Independent barbershop station within Filo Salon, Playa del Carmen, MX
 Stack: Python · pandas · matplotlib · seaborn
 Status: 🟢 Live — updated weekly with real operational data
 
-🧭 Business Context
+## 🧭 Business Context 
 Riviera Barber is my own independent barbershop business. I am simultaneously the owner and the analyst.
 This project applies a real data analysis pipeline to real operational decisions:
 
@@ -17,7 +17,7 @@ Every row in this dataset is a real service performed. Every insight drives a re
 Commission structure: Nelson 60% · Business 40% · Tips 100% to barber
 
 
-🚀 What This Project Solves
+## 🚀 What This Project Solves 
 
 Dirty data pipeline: Automated parsing of manual Google Sheets entries (currency symbols, date gaps, separator rows)
 Financial logic: Automatic commission recalculation at correct 60/40 split
@@ -26,7 +26,7 @@ Client segmentation: Loyalty tiers — One-time, Returning, Loyal — with reven
 Auto-generated insights: Data-driven recommendations expressed in business language, not just metrics
 
 
-🛠️ Stack
+## 🛠️ Stack 
 
 Python — pandas, seaborn, matplotlib
 Google Sheets — operational data source (CAJA, CLIENTES, CIERRE tabs)
@@ -34,7 +34,7 @@ Google Colab — development environment
 Git/GitHub — version control and Agile project management
 
 
-📁 Project Structure
+## 📁 Project Structure 
 riviera-barber-analytics/
 │
 ├── notebooks/
@@ -45,7 +45,7 @@ riviera-barber-analytics/
 ├── requirements.txt
 └── README.md
 
-📈 Roadmap
+## 📈 Roadmap 
 
  Client churn prediction model (Loyal vs. At-Risk segmentation)
  Demand forecasting for shift optimization
@@ -53,9 +53,8 @@ riviera-barber-analytics/
  Power BI integration for non-technical reporting
 
 
-🗂️ Project Board
+## 🗂️ Project Board 
 Follow the progress of this and other portfolio projects:
 https://github.com/users/saravianelson/projects/2
 
-Nelson Saravia — Data Analyst
-LinkedIn · Portfolio · GitHub
+*Nelson Saravia* — Data Analyst
