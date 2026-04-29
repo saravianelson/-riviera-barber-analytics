@@ -1,0 +1,11 @@
+Data files — never upload real client data to GitHub
+data/raw/.csv
+data/raw/.xlsx
+*.csv
+Python
+pycache/
+*.pyc
+.ipynb_checkpoints/
+Environment
+.env
+venv/
